@@ -34,7 +34,9 @@ JSX   5 mins          ███████████████████�
 highlight projects
 -->
 ### Highlight Projects <img src="https://media.giphy.com/media/xUPGcuclxAcM63vJAs/giphy.gif" width="40" height="auto" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&repo=github-LIM014-social-network)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-burger-queen-api-client)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-social-network)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-data-lovers)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br /><br />
@@ -43,6 +45,10 @@ FOOTER SILLY STUFF
 -->
 ### Thanks for your visit!<img src="https://media.giphy.com/media/mCMMDi2ge16ssq5Ttm/giphy.gif" width="50" height="auto" />
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)<br /><br />
+
+
+
+
 
 
 <!--
