@@ -17,7 +17,7 @@ STATS
 <!--
 FOOTER SILLY STUFF
 -->
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 <!--
 **MariaCristinaTC/MariaCristinaTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
