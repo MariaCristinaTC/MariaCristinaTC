@@ -7,7 +7,7 @@
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)<br /><br /><br />
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)<br />
-<a href=”https://www.linkedin.com/in/MariaCristinaTC-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href=”https://www.linkedin.com/in/MariaCristinaTC/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 
