@@ -25,10 +25,10 @@ highlight projects
 <!--
 FOOTER SILLY STUFF
 -->
-### Thanks for your visit!
+### Thanks for your visit!<img src="https://media.giphy.com/media/xUA7b2s0LQTwbou3Kw/giphy.gif" width="40" height="40" />
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)<br /><br />
 
-<img src="https://media.giphy.com/media/xUA7b2s0LQTwbou3Kw/giphy.gif" width="40" height="40" />
+
 <!--
 **MariaCristinaTC/MariaCristinaTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
