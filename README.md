@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> 
 ### Hi there < Coders /><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> This is Cristina<br />
-> - I'm a 24 y.o. Junior Front-end developer, currently based in Lima, Peru. I put most of my effort on web development with JAVASCRIPT. However I'm open to new languages and frameworks.
+> - I'm a 24 y.o. Junior Front-end developer, currently based in Lima, Peru. I put most of my effort on web development with JAVASCRIPT. However, I'm open to new languages and frameworks.
 
 <br />
 <!--
@@ -34,9 +34,9 @@ JSX   5 mins          ███████████████████�
 highlight projects
 -->
 ### Highlight Projects <img src="https://media.giphy.com/media/xUPGcuclxAcM63vJAs/giphy.gif" width="40" height="auto" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-burger-queen-api-client)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-social-network)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-data-lovers)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-burger-queen-api-client)](https://https://github.com/MariaCristinaTC/LIM014-burger-queen-api-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-social-network)](https://github.com/MariaCristinaTC/LIM014-social-network)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-data-lovers)](https://github.com/MariaCristinaTC/LIM014-data-lovers)
 
 
 <br /><br />
