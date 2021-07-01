@@ -13,7 +13,15 @@ STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Cristina's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MariaCristinaTC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-<br /><br /><br />
+<br />
+<!--
+highlight projects
+-->
+### Highlight Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br /><br />
 <!--
 FOOTER SILLY STUFF
 -->
