@@ -3,7 +3,7 @@
 <!--
 TAGS
 -->
-[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)[![Generic badge](https://img.shields.io/badge/editor-VS-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SASS-1abc9c.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/editor-VS-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SASS-1abc9c.svg)](https://shields.io/)
 <!--
 STATS
 -->
