@@ -1,18 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> 
 ### Hi there < Coders /><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> This is Cristina<br />
-> - I'm a Junior Front-end, currently based in Lima, Peru. Currently I put most of my effort on web development with JAVASCRIPT
+> - I'm a 24 y.o. Junior Front-end developer, currently based in Lima, Peru. I put most of my effort on web development with JAVASCRIPT. However I'm open to new languages and frameworks.
 
 <br />
 <!--
 soft green TAGS
 -->
 
-[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/editor-VS-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SCSS-1abc9c.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/editor-VSC-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SCSS-1abc9c.svg)](https://shields.io/)
 
 ### You can found me on
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-cristina-tarazona-castro-268374118/)
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!--
 general STATS
 -->
