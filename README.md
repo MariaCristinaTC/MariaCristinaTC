@@ -5,7 +5,13 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)<br />
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=radical)<br />
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC)](https://github.com/MariaCristinaTC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC)](https://github.com/MariaCristinaTC/github-readme-stats)<br />
+- uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
 
 
 
