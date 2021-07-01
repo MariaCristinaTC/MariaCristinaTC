@@ -36,7 +36,7 @@ const cristina = {
   challenge: "I am doing the #100DaysOfCode challenge focused on react and SASS"
 }
 ```
-
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 
 
 <!--
