@@ -1,11 +1,12 @@
-![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there < Coders />👋 This is Cristina<br /><br />[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/)[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MariaCristinaTC&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> 
+### Hi there < Coders />👋 This is Cristina<br /><br />[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)[![Generic badge](https://img.shields.io/badge/editor-VS-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SASS-1abc9c.svg)](https://shields.io/)
 
 
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Cristina's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MariaCristinaTC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -29,4 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+TROFEOS IMAGES....[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MariaCristinaTC&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 -->
