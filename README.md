@@ -1,15 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> 
 ### Hi there < Coders /><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> This is Cristina<br />
-> - Junior Front-end, currently based in Lima, Peru 
-> - I put most of my focus on web development with JS
+> - I'm a Junior Front-end, currently based in Lima, Peru. Currently I put most of my effort on web development with JAVASCRIPT
 
 <br />
 <!--
 soft green TAGS
 -->
-
-<<<<<<< HEAD
-
 
 [![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/editor-VS-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SCSS-1abc9c.svg)](https://shields.io/)
 
@@ -24,10 +20,6 @@ general STATS
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)
 
-=======
-[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/editor-VS-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SCSS-1abc9c.svg)](https://shields.io/)
-
->>>>>>> 3a5f288828661a32b1a3e763c146be764d6baa39
 <!--
 waka STATS
 -->
@@ -38,13 +30,6 @@ waka STATS
 JSX   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-<<<<<<< HEAD
-=======
-### More about me
-
-![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)
->>>>>>> 3a5f288828661a32b1a3e763c146be764d6baa39
 
 <!--
 highlight projects
