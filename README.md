@@ -25,7 +25,7 @@ highlight projects
 <!--
 FOOTER SILLY STUFF
 -->
-### Thanks for your visit!<img src="https://media.giphy.com/media/3og0IPi1lkrPXbewKY/giphy.gif" width="40" height="auto" />
+### Thanks for your visit!<img src="https://media.giphy.com/media/MAp9JqczqF0qZ78qYI/giphy.gif" width="40" height="auto" />
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)<br /><br />
 
 
