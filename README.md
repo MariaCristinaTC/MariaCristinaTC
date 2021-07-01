@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> 
-### Hi there < Coders />👋 This is Cristina<br /><br />
-![Alt Text](https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+### Hi there < Coders /><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> This is Cristina<br /><br />
+
+<img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" />
 <!--
 TAGS
 -->
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...gifs ....![Alt Text](https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif)
 TROFEOS IMAGES....[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MariaCristinaTC&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 -->
