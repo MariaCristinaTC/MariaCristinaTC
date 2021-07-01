@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br />
+![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there < Coders />👋 This is Cristina<br /><br />[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/)[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MariaCristinaTC&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
