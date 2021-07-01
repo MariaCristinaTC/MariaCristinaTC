@@ -17,7 +17,7 @@ STATS
 <!--
 highlight projects
 -->
-### Highlight Projects
+### Highlight Projects <img src="https://media.giphy.com/media/xUPGcuclxAcM63vJAs/giphy.gif" width="40" height="auto" />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&repo=github-LIM014-social-network)](https://github.com/anuraghazra/github-readme-stats)
 
 
