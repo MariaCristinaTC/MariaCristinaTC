@@ -7,6 +7,9 @@ TAGS
 <!--
 STATS
 -->
+### WAKA STATS
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)
