@@ -3,8 +3,7 @@
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)<br />
-![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)<br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaCristinaTC&theme=green-nur&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
+![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)
 
 
