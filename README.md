@@ -1,5 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> 
-### Hi there < Coders /><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> This is Cristina<br /><br />
+### Hi there < Coders /><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> This is Cristina<br />
+Junior Front-end, currently based in Lima, Peru 
+I put most of my focus on web development with JS
+
+<br />
 <!--
 TAGS
 -->
