@@ -9,6 +9,9 @@ STATS
 -->
 ### WAKA STATS
 <!--START_SECTION:waka-->
+```text
+JSX   5 mins          █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
