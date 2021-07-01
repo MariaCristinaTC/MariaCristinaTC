@@ -20,8 +20,7 @@
  <a href="mailto:mariacristina.tarazona@outlook.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
