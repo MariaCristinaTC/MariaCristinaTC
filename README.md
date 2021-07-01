@@ -14,7 +14,7 @@ STATS
 [![Cristina's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MariaCristinaTC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
-<img src="https://wakatime.com"><img src="https://wakatime.com/share/@MariaCristinaTC/c1cf2c86-d250-4f6f-90eb-ee6bc85661d5.png" height="300"/>
+<img src="https://wakatime.com"><img src="https://wakatime.com/share/@MariaCristinaTC/c1cf2c86-d250-4f6f-90eb-ee6bc85661d5.png" height="300"/><img src="https://wakatime.com/share/@MariaCristinaTC/82318705-7c5a-4195-9d62-ba540574d799.svg" height="300"/>
 <!--
 highlight projects
 -->
