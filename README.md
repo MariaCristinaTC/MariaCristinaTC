@@ -1,10 +1,12 @@
-### Hi there < Coders />👋<br />![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /><br />
+### Hi there < Coders />👋<br />
 
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)<br />
+
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)<br /><br /><br />
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)<br />
 
 
 
