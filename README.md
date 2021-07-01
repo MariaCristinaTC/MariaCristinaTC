@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br />
-### Hi there < Coders />👋 This is Cristina<br /><br />
+### Hi there < Coders />👋 This is Cristina<br /><br />[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/)
 
 
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
