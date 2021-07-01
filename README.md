@@ -4,8 +4,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)<br />
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=radical)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&layout=compact)](https://github.com/MariaCristinaTarazona/github-readme-stats)<br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MariaCristinaTC)](https://github.com/MariaCristinaTarazona/github-readme-stats)<br />
+![Github stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC)<br />
 
 
 
