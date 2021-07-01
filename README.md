@@ -7,20 +7,15 @@ TAGS
 <!--
 STATS
 -->
-### WAKA STATS
+### Languages used lately
 <!--START_SECTION:waka-->
 ```text
 JSX   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-
+### More about me
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Cristina's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MariaCristinaTC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCristinaTC&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-<br /><br />
-<img src="https://wakatime.com/share/@MariaCristinaTC/b211ca0f-f8b9-419e-bae1-fefe9aef8fb3.png" height="300"/> <img src="https://wakatime.com/share/@MariaCristinaTC/c1cf2c86-d250-4f6f-90eb-ee6bc85661d5.png" height="300"/>
 <!--
 highlight projects
 -->
