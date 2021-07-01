@@ -25,9 +25,6 @@ waka STATS
 
 ### Languages used lately
 <!--START_SECTION:waka-->
-```text
-JSX   5 mins          █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
 
 <!--
