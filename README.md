@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> 
 ### Hi there < Coders />👋 This is Cristina<br /><br />
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <!--
 TAGS
 -->
