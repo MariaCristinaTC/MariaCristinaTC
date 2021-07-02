@@ -35,7 +35,7 @@ JSX   5 mins          ███████████████████�
 highlight projects
 -->
 ### Highlight Projects <img src="https://media.giphy.com/media/xUPGcuclxAcM63vJAs/giphy.gif" width="40" height="auto" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-burger-queen-api-client)](https://https://github.com/MariaCristinaTC/LIM014-burger-queen-api-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-burger-queen-api-client)](https://github.com/MariaCristinaTC/LIM014-burger-queen-api-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-social-network)](https://github.com/MariaCristinaTC/LIM014-social-network)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-data-lovers)](https://github.com/MariaCristinaTC/LIM014-data-lovers)
 
