@@ -2,16 +2,18 @@
 ### Hi there < Coders /><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> This is Cristina<br />
 > - I'm a 24 y.o. Junior Front-end developer, currently based in Lima, Peru. I put most of my effort on web development with JAVASCRIPT. However, I'm open to new languages and frameworks.
 
-<br />
+<br /><br />
 <!--
 soft green TAGS
 -->
 
-[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/editor-VSC-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SCSS-1abc9c.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/editor-VSC-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SCSS-1abc9c.svg)](https://shields.io/)<br /><br /><br />
 
 ### You can found me on
 
-> - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-cristina-tarazona-castro-268374118/)
+> - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-cristina-tarazona-castro-268374118/)<br />
+
+<br />
 
 <!--
 general STATS
@@ -23,14 +25,11 @@ general STATS
 <!--
 waka STATS
 -->
+<br />
 
 ### Languages used lately
-<!--START_SECTION:waka-->
-```text
-JSX   5 mins          █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=@MariaCristinaTC&theme=gotham&layout=compact&range=all_time)
 <!--
 highlight projects
 -->
@@ -39,12 +38,7 @@ highlight projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-social-network)](https://github.com/MariaCristinaTC/LIM014-social-network)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaCristinaTC&theme=gotham&show_icons=true&repo=LIM014-data-lovers)](https://github.com/MariaCristinaTC/LIM014-data-lovers)
 
-
 <br /><br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=@MariaCristinaTC&theme=gotham&layout=compact&range=all_time)
-
-
 <!--
 FOOTER SILLY STUFF
 -->
