@@ -42,7 +42,7 @@ highlight projects
 
 <br /><br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=@MariaCristinaTC&theme=dark&layout=compact&range=all_time)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=@MariaCristinaTC&theme=gotham&layout=compact&range=all_time)
 
 
 <!--
