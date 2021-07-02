@@ -9,36 +9,27 @@ soft green TAGS
 
 [![Generic badge](https://img.shields.io/badge/code-JAVASCRIPT-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/framework-REACT-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/editor-VSC-1abc9c.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/database-FIREBASE-1abc9c.svg)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/style-SCSS-1abc9c.svg)](https://shields.io/)
 
+### You can found me on
 
-<br />
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-cristina-tarazona-castro-268374118/)
 
-<details>
-<summary markdown="h2"> You can found me on </summary>{: .gitlab-orange}
-
-* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-cristina-tarazona-castro-268374118/) 
-
-</details>
-<br />
-<details>
-<summary markdown="h2"> Summary of my progress </summary>
 <!--
 general STATS
 -->
-
+### Summary of my progress
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaCristinaTC&show_icons=true&theme=gotham)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MariaCristinaTC&theme=green_nur)](https://git.io/streak-stats)
 
-</details>
-<br />
-<details>
-<summary markdown="h2"> Languages used lately </summary>
+<!--
+waka STATS
+-->
+
+### Languages used lately
 <!--START_SECTION:waka-->
 ```text
 JSX   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-</details>
-<br />
 
 <!--
 highlight projects
