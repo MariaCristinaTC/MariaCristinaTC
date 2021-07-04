@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=MariaCristinaTC&label=PROFILE+VIEWS)<br /> 
-![LinkedIn cover - 1 (8)](https://user-images.githubusercontent.com/77206991/124395414-aafa4e00-dcc9-11eb-9f47-4b73268a65be.jpg)
+![LinkedIn cover - 1 (9)](https://user-images.githubusercontent.com/77206991/124401730-bc0a8580-dcf0-11eb-9dbf-f1a4da1f441b.jpg)
 ### Hi there < Coders /><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="40" height="40" /> This is Cristina<br />
 > - I'm a 24 y.o. Junior Front-end developer, currently based in Lima, Peru. I put most of my effort on web development with JAVASCRIPT. However, I'm open to new languages and frameworks.
 
