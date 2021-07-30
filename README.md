@@ -14,7 +14,7 @@ soft green TAGS
 ### You can found me on
 
 > - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-cristina-tarazona-castro-268374118/)<br />
-> - [Send me an E-mail](mailto:mariacristina.tarazona@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
+> - [Send me an E-mail](mailto:mariacristina.tarazona@outlook.com?subject=[GitHub])
 
 <br />
 
